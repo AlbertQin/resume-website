@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?xkj9sy');
+  src:  url('fonts/icomoon.eot?xkj9sy#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xkj9sy') format('truetype'),
+    url('fonts/icomoon.woff?xkj9sy') format('woff'),
+    url('fonts/icomoon.svg?xkj9sy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons8-adobe-dreamweaver-filled:before {
+  content: "\e900";
+}
+.icon-icons8-adobe-photoshop-1:before {
+  content: "\e901";
+}
+.icon-icons8-adobe-photoshop-2:before {
+  content: "\e902";
+}
+.icon-icons8-css3-filled:before {
+  content: "\e903";
+}
+.icon-icons8-html-5:before {
+  content: "\e904";
+}
+.icon-icons8-java:before {
+  content: "\e905";
+}
+.icon-icons8-microsoft-word-1:before {
+  content: "\e906";
+}
+.icon-icons8-vegas:before {
+  content: "\e907";
+}
